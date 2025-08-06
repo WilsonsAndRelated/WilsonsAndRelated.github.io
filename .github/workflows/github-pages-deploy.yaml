@@ -14,8 +14,6 @@ jobs:
           #Assuming GIT main branch is cloned before this script to the PWD
           DEBIAN_FRONTEND=noninteractive
           #Answer dumbass questions to prevent non-interactive errors
-          echo 'America/Edmonton' > /etc/timezone 
-          rm -f /etc/localtime
           echo "tzdata tzdata/Areas select America" | debconf-set-selections
           echo "tzdata tzdata/Zones/America select Edmonton" | debconf-set-selections
           echo "keyboard-configuration keyboard-configuration/layout select Engilsh (US)" | debconf-set-selections
