@@ -5,8 +5,8 @@ sidebar_position: 1
 # League Dates
 ## Explanations
 - **Start of League Year** - The day that transactions are eligible to be carried out again, waivers in accordance to the [[#Offseason Waiver Order]] until the Start of Season date has passed
-- **Draft Start** - The beginning of the draft (see [Draft](#Draft))
-- **Taxi Squad and Roster Size Lock** - The day that all players on your taxi squad must meet [[#Taxi Squad|eligibility requirements]], and your roster must be at the [[#Base Roster|correct size and composition]]. This can be extended in exceptional cases by communicating with the Commissioner, which might result in scoring adjustments on a case-by-case basis.
+- **Draft Start** - The beginning of the draft (see [Draft](#draft))
+- **Taxi Squad and Roster Size Lock** - The day that all players on your taxi squad must meet [eligibility requirements](#taxi-squad), and your roster must be at the [correct size and composition](#base-roster). This can be extended in exceptional cases by communicating with the Commissioner, which might result in scoring adjustments on a case-by-case basis.
 - **Start of Season** - The start of the NFL regular season. This is also the due date for [[#Dues and Prizes|Dues]] (required) and the [[#Yearly Survey]] (optional, but strongly encouraged)
 - **Trade Deadline** - The date that trading is disabled for the season (see [[#Trades]])
 - **Start of Playoffs** - The date that the playoffs begin (see [[#Playoffs]])
