@@ -12,7 +12,7 @@ jobs:
       - name: Build docusaurus NPM static page
         run: |
           #Set up environment
-          apt update && apt install npm rsync git -y
+          sudo apt update && sudo apt install npm rsync git -y
 
           #Build page
           npm install create-docusaurus
