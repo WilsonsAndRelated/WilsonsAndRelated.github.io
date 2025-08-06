@@ -10,6 +10,7 @@ export default defineConfig({
 			logo: {
 				src: './src/assets/football.svg'
 			},
+			//Relative Git URL
 			editLink: {
         		baseUrl: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io/tree/main',
       		},
