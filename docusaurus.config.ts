@@ -103,6 +103,10 @@ const config: Config = {
               label: 'Tutorial',
               to: '/docs/intro',
             },
+            {
+              label: 'Rulebook',
+              to: '/docs/rulebook',
+            },
           ],
         },
         {
