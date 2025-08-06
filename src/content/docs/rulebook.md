@@ -5,13 +5,13 @@ title: Fantasy Football Rulebook
 ## League Dates
 
 ### Explanations
-- **Start of League Year** - The day that transactions are eligible to be carried out again, waivers in accordance to the [[#Offseason Waiver Order]] until the Start of Season date has passed
+- **Start of League Year** - The day that transactions are eligible to be carried out again, waivers in accordance to the [Offseason Waiver Order](#offseason-waiver-order) until the Start of Season date has passed
 - **Draft Start** - The beginning of the draft (see [Draft](#draft))
 - **Taxi Squad and Roster Size Lock** - The day that all players on your taxi squad must meet [eligibility requirements](#taxi-squad), and your roster must be at the [correct size and composition](#base-roster). This can be extended in exceptional cases by communicating with the Commissioner, which might result in scoring adjustments on a case-by-case basis.
-- **Start of Season** - The start of the NFL regular season. This is also the due date for [Dues](#Dues) (required) and the [Yearly Survey](#yearly-survey) (optional, but strongly encouraged)
-- **Trade Deadline** - The date that trading is disabled for the season (see [[#Trades]])
-- **Start of Playoffs** - The date that the playoffs begin (see [[#Playoffs]])
-- **Championship Awarded** - The date when we get a new league champion! (see [[#Playoffs]])
+- **Start of Season** - The start of the NFL regular season. This is also the due date for [Dues](#dues-and-prizes) (required) and the [Yearly Survey](#yearly-survey) (optional, but strongly encouraged)
+- **Trade Deadline** - The date that trading is disabled for the season (see [Trades](#trades))
+- **Start of Playoffs** - The date that the playoffs begin (see [Playoffs](#playoffs))
+- **Championship Awarded** - The date when we get a new league champion! (see [Playoffs](#playoffs))
 - **End of League Year** - The day that transactions are disabled until the start of the next league year.
 
 ### 2025-2026 Season
@@ -29,7 +29,7 @@ title: Fantasy Football Rulebook
 
 ## Dues and Prizes
 - **Dues:** For the 2025-2026 season, dues are $20 to be sent to the commissioner (eTransfer to his email or handed to him in person)
-- **Prize:** The full $200 prize will be awarded to the [[#Playoffs|playoffs]] champion within 3 days of the championship completion (eTransfer preferred, commissioner will DM champion)
+- **Prize:** The full $200 prize will be awarded to the [Playoffs](#playoffs) champion within 3 days of the championship completion (eTransfer preferred, commissioner will DM champion)
 
 ## Scoring
 **Note:** Sleeper has many more scoring categories that can be enabled, but all that currently worth 0 points have been truncated from this document for ease of reading.
@@ -88,7 +88,7 @@ title: Fantasy Football Rulebook
 - In addition to the above base roster, each team has 5 taxi squad roster slots that can belong to any offensive position (excluding kickers) who meet the following eligibility rules:
 	- Players with more than 2 years of NFL experience (entering into their 3rd NFL season) are ineligible
 	- Players are taxi eligible until the start of their 3rd NFL season. Seasons accrue regardless of games played.
-		- Any players with a 0 or a 1 on their player card at [[#League Dates|Start of League Year]] are eligible, these numbers update sometime in the offseason
+		- Any players with a 0 or a 1 on their player card at [Start of League Year](#league-dates) are eligible, these numbers update sometime in the offseason
 ### Injured Reserve
 - Each team has 3 injured reserve slots that players can be placed into if they are on IR, have COVID-19, are suspended, are DNR, or are holding-out.
 - Once a player in IR has their status change out of one of the eligible statuses (e.g. they are re-activated), you must either place them into your active roster or cut them.
@@ -97,12 +97,12 @@ title: Fantasy Football Rulebook
 - This is intentional, **but** you will not be able to change your starting roster or make any roster moves that aren't immediately rectifying the problem while in invalid state. Scoring is unaffected if your roster is invalid.
 ## Draft
 ### Pick Trading
-- See [[#Trades]]
+- See [Trades](#trades)
 ### Format
 - The draft is a so-called "slow draft" and is conducted completely via the Sleeper app. 
 - The draft consists of **3 rounds with 10 picks per round.** All players selected in the draft must be NFL rookie offensive position players (excluding kickers)
 ### Order
-- Draft order is determined by the previous season's [[#Toilet Bowl]] results and then season standings.
+- Draft order is determined by the previous season's [Toilet Bowl](#toilet-bowl) results and then season standings.
 
 | Draft Position | Awarded To                                                              | 2025-2026 Owner          |
 | -------------- | ----------------------------------------------------------------------- | ------------------------ |
@@ -120,14 +120,14 @@ title: Fantasy Football Rulebook
 ### Pick Timing
 - Each pick is to be selected in an 8 hour time period beginning upon the completion of the pick previous to yours
 - The "clock" for picking is paused from 12 AM MDT to 8 AM MDT for sleeping
-- The goal of the commissioner and the league at large is to avoid missed/CPU picks to the largest degree possible. In the event that someone is non-responsive for their next pick for 48 hours (or shorter if it will potentially impact the draft overlapping the [[#League Dates|Start of Season]]), a [[#In-Season Votes|vote]] will be put to all owners to determine how to proceed.
+- The goal of the commissioner and the league at large is to avoid missed/CPU picks to the largest degree possible. In the event that someone is non-responsive for their next pick for 48 hours (or shorter if it will potentially impact the draft overlapping the [Start of Season](#league-dates)), a [In-Season Vote](#casual-votes) will be put to all owners to determine how to proceed.
 ## Waivers
 ### In-Season Waivers
 - **Order:** In-Season (between Start of Season and Championship Awarded dates) waiver order is calculated in **reverse-standings** order, with the last place team in standings being the highest in waiver claims order.
-- **How claims are calculated:** At 12:05 AM PST on each Wednesday (according to [Sleeper](https://support.sleeper.com/en/articles/3978868-waivers-for-regular-season-playoffs)) waivers will be processed according to the [[#How Waiver Claims Are Calculated|Sleeper waiver calculation process]]
+- **How claims are calculated:** At 12:05 AM PST on each Wednesday (according to [Sleeper](https://support.sleeper.com/en/articles/3978868-waivers-for-regular-season-playoffs)) waivers will be processed according to the [Sleeper waiver calculation process](#how-waiver-claims-are-calculated)
 ### Offseason Waiver Order
-- **Order:** Offseason (between Championship Awarded and End of League Year dates and again between Start of League Year and Start of Season dates) waiver order is calculated identically to the [[#Order|Draft Order]]
-- **How claims are calculated:** At 12:05 AM PST on each Wednesday (according to [Sleeper](https://support.sleeper.com/en/articles/3978868-waivers-for-regular-season-playoffs)) waivers will be processed according to the [[#How Waiver Claims Are Calculated|Sleeper waiver calculation process]]
+- **Order:** Offseason (between Championship Awarded and End of League Year dates and again between Start of League Year and Start of Season dates) waiver order is calculated identically to the [Draft Order](#order)
+- **How claims are calculated:** At 12:05 AM PST on each Wednesday (according to [Sleeper](https://support.sleeper.com/en/articles/3978868-waivers-for-regular-season-playoffs)) waivers will be processed according to the [Sleeper waiver calculation process](#how-waiver-claims-are-calculated)
 ### How Waiver Claims Are Calculated
 - The highest waiver claim (e.g. the person who put in a claim who is the lowest in the standings) gets their first waiver pick
 - The next highest waiver claim gets their first waiver pick, and so on, until claims are all completed with the following caveat:
@@ -149,10 +149,10 @@ title: Fantasy Football Rulebook
 - In such cases, the commissioner will do the following:
 	- DM the parties involved in the trade and ask about it
 	- If the commissioner still feels that this trade is purposefully unbalanced, he can request that the owners pay dues for next year in advance of processing the trade (to discourage someone scrapping their roster and walking away)
-- If any actions are taken by the commissioner that will result in the trade not being processed, the commissioner must abide by the terms set in [[#Commissioner Transparency]].
+- If any actions are taken by the commissioner that will result in the trade not being processed, the commissioner must abide by the terms set in [Commissioner Transparency](#cmmissioner-transparency).
 ## Playoffs
 ### Participants
-- Playoffs start according to the date defined in [[#League Dates]] and are comprised of the teams that finish in the top 6 in regular season standings
+- Playoffs start according to the date defined in [League Dates](#league-dates) and are comprised of the teams that finish in the top 6 in regular season standings
 - Tiebreakers are the Sleeper default **Points For**, and then **Higher Points Against** if the standings order is somehow still tied (see [Sleeper article](https://support.sleeper.com/en/articles/5200797-how-do-tiebreakers-wor))
 ### Format
 - Each playoff round is a single-elimination head to head matchup with the winner advancing.
@@ -163,25 +163,25 @@ title: Fantasy Football Rulebook
 - Waivers and all roster moves (excluding trades) are allowed during the playoffs.
 ## Toilet Bowl
 ### Participants
-- The Toilet Bowl starts the same week as the playoffs (as defined by the date in [[#League Dates]]) and are comprised of the 4 teams who do not qualify for the [[#Participants|Playoffs]].
+- The Toilet Bowl starts the same week as the playoffs (as defined by the date in [League Dates](#league-dates)) and are comprised of the 4 teams who do not qualify for the [Playoffs](#participants).
 - Tiebreakers are the Sleeper default **Points For**, and then **Higher Points Against** if the standings order is somehow still tied (see [Sleeper article](https://support.sleeper.com/en/articles/5200797-how-do-tiebreakers-wor))
 ### Format
 - Each Toilet Bowl round is a single-elimination head to head matchup with the winner advancing.
-- The winner of the Toilet Bowl wins the highest [[#Order|draft order]], with second, third, and fourth place winning the remaining high draft order positions.
+- The winner of the Toilet Bowl wins the highest [draft order](#order), with second, third, and fourth place winning the remaining high draft order positions.
 	- You want to **win** in the Toilet Bowl, not lose. Winning the Toilet Bowl is some level of prestige, losing is the ultimate shame.
 ### Waivers
 - Waivers and all roster moves (excluding trades) are allowed during the Toilet Bowl.
 ## Rule Changes
 Rule changes occur in one of two ways:
-- The [[#Yearly Survey]], sent to all league members to vote on rule changes
-- A successful [[#In-Season Votes|In-Season Vote]] that has **unanimous** participation, and a minimum of 90% affirmative responses. As such, these are only to be used in emergency cases
+- The [Yearly Survey](#yearly-survey), sent to all league members to vote on rule changes
+- A successful in-season [Casual Vote](#casual-votes) that has **unanimous** participation, and a minimum of 90% affirmative responses. As such, these are only to be used in emergency cases
 ### Suggesting new rules
 - Right now, rules are suggested by DMs to the commissioner. There will eventually be a way to do this anonymously, but there isn't at this time. 
 	- All rule suggestions will be added to the survey.
 - If a rule loses in the survey, it cannot be re-proposed right away. If it loses, a 1 year period must pass before it can be re-proposed to reduce the survey being the same rules continuously suggested.
-	- If a rule fails its second attempt, it is permanently removed from consideration. To re-introduce it, it must have a majority of people [[#In-Season Votes|vote]] for it to be re-added to the survey. 
+	- If a rule fails its second attempt, it is permanently removed from consideration. To re-introduce it, it must have a majority of people [vote](#casual-votes) for it to be re-added to the survey. 
 ### Rule Corrections
-- If something is incorrect in this document, and represents a rule to be added that is not a material change (but either a mistake in writing or a misunderstanding), it can be suggested to be added/changed by anyone and put into the document without following the normal process, as long as [[#Commissioner Transparency]] is upheld.
+- If something is incorrect in this document, and represents a rule to be added that is not a material change (but either a mistake in writing or a misunderstanding), it can be suggested to be added/changed by anyone and put into the document without following the normal process, as long as [Commissioner Transparency](#cmmissioner-transparency) is upheld.
 ## Yearly Survey
 - The yearly survey is anonymous, and will be sent out before the Start of League Year.
 - Participation in the survey is optional, but any content contained in the survey will pass with a simple majority, so participation is strongly encouraged.
@@ -190,13 +190,13 @@ Rule changes occur in one of two ways:
 - These votes will be anonymous where it makes sense and is possible for them to be made anonymous.
 ## Owner Leaving the League and Expansion
 ### Owners Leaving the League
-- Any owner leaving the league should preferably let the commissioner know they are leaving before [[#League Dates|Start of League Year]], but you can leave at any time
-- If the owner leaves before [[#League Dates|Start of League Year]], they will not be subject to [[#Dues and Prizes|Dues]], but if it is made past that point, they will be expected to pay for the final year.
-- Owners are discouraged from conducting non-competitive [[#Trades|trades]] prior to leaving, as any non-competitive moves would place the new owner at a competitive disadvantage.
-- Any actions deemed to be non-competitive in the light of an owner leaving will be [[#Casual Votes|voted on]] and potentially reversed to keep the new owner from having to deal with a non-competitive roster.
+- Any owner leaving the league should preferably let the commissioner know they are leaving before [Start of League Year](#league-dates), but you can leave at any time
+- If the owner leaves before [Start of League Year](#league-dates), they will not be subject to [Dues](#dues-and-prizes), but if it is made past that point, they will be expected to pay for the final year.
+- Owners are discouraged from conducting non-competitive [trades](#trades) prior to leaving, as any non-competitive moves would place the new owner at a competitive disadvantage.
+- Any actions deemed to be non-competitive in the light of an owner leaving will be [voted on](#casual-votes) and potentially reversed to keep the new owner from having to deal with a non-competitive roster.
 ### Expansion
 - Expansion to 12 teams is possible and welcomed. If anyone has potential names for expansion, please contact the commissioner.
-- Any rules for an expansion draft would be voted on in the [[#Yearly Survey]], were it ever to happen.
+- Any rules for an expansion draft would be voted on in the [Yearly Survey](#yearly-survey), were it ever to happen.
 ## Commissioner Transparency
 - Any and every commissioner action that utilizes commissioner permissions (e.g. anything a non-commissioner user **could not** do in the Sleeper app) **must** be reported via the open and universally available chat channel in Sleeper. There are no exceptions to this rule.
 ## Commissioner Mutiny
