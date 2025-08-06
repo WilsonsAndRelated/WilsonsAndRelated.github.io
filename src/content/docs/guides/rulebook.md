@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
+title: Wilsons and Related - Fantasy Football Rulebook
+description: A guide in my new Starlight docs site.
 ---
-# Wilsons and Related - Fantasy Football Rulebook
 # League Dates
 ## Explanations
 - **Start of League Year** - The day that transactions are eligible to be carried out again, waivers in accordance to the [[#Offseason Waiver Order]] until the Start of Season date has passed
