@@ -7,6 +7,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Wilsons and Related',
+			logo: {
+				src: './src/assets/football.svg'
+			},
 			editLink: {
         		baseUrl: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io',
       		},
