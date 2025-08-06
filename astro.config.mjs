@@ -7,6 +7,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Wilsons and Related',
+			editLink: {
+        		baseUrl: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io/content/docs/',
+      		},
 			tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 6 },
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io' }],
 			sidebar: [
