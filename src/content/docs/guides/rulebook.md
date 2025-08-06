@@ -1,5 +1,5 @@
 ---
-title: Wilsons and Related - Fantasy Football Rulebook
+title: Fantasy Football Rulebook
 description: A guide in my new Starlight docs site.
 ---
 # League Dates
