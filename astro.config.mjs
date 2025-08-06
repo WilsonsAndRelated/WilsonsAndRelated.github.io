@@ -11,7 +11,7 @@ export default defineConfig({
 				src: './src/assets/football.svg'
 			},
 			editLink: {
-        		baseUrl: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io',
+        		baseUrl: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io/tree/main',
       		},
 			tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 6 },
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io' }],
