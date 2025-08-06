@@ -7,6 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Wilsons and Related',
+			tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 6 },
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io' }],
 			sidebar: [
 				{
