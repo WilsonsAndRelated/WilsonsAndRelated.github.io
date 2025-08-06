@@ -8,14 +8,16 @@ export default defineConfig({
 		starlight({
 			title: 'Wilsons and Related',
 			editLink: {
-        		baseUrl: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io/content/docs/',
+        		baseUrl: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io',
       		},
 			tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 6 },
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io' }],
 			sidebar: [
 				{
 					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					items: [
+						{ label: 'Fantasy Football Rulebook', slug: 'rulebook'}
+					],
 				},
 			],
 		}),
