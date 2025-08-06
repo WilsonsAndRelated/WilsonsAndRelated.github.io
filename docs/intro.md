@@ -75,18 +75,18 @@ sidebar_position: 1
 # Roster Construction
 ## Base Roster
 - Each starting lineup consists of:
-	- 1 QB
-	- 2 RB
-	- 3 WR
-	- 1 TE
-	- 2 Flex (any of WR/RB/TE)
+  - 1 QB
+  - 2 RB
+  - 3 WR
+  - 1 TE
+  - 2 Flex (any of WR/RB/TE)
 - In addition to these 9 starters, you may carry 11 players at any offensive position (excluding kickers) on your bench
 - At this time, defensive stats and plays for players are not eligible for points.
 ## Taxi Squad
 - In addition to the above base roster, each team has 5 taxi squad roster slots that can belong to any offensive position (excluding kickers) who meet the following eligibility rules:
-	- Players with more than 2 years of NFL experience (entering into their 3rd NFL season) are ineligible
-	- Players are taxi eligible until the start of their 3rd NFL season. Seasons accrue regardless of games played.
-		- Any players with a 0 or a 1 on their player card at [[#League Dates|Start of League Year]] are eligible, these numbers update sometime in the offseason
+  - Players with more than 2 years of NFL experience (entering into their 3rd NFL season) are ineligible
+  - Players are taxi eligible until the start of their 3rd NFL season. Seasons accrue regardless of games played.
+    - Any players with a 0 or a 1 on their player card at [[#League Dates|Start of League Year]] are eligible, these numbers update sometime in the offseason
 ## Injured Reserve
 - Each team has 3 injured reserve slots that players can be placed into if they are on IR, have COVID-19, are suspended, are DNR, or are holding-out.
 - Once a player in IR has their status change out of one of the eligible statuses (e.g. they are re-activated), you must either place them into your active roster or cut them.
@@ -129,24 +129,24 @@ sidebar_position: 1
 ## How Waiver Claims Are Calculated
 - The highest waiver claim (e.g. the person who put in a claim who is the lowest in the standings) gets their first waiver pick
 - The next highest waiver claim gets their first waiver pick, and so on, until claims are all completed with the following caveat:
-	- After each successful waiver pick, the priority for that owner drops to **last place.** This ensures that the last place team does not get to select all the players they want
+  - After each successful waiver pick, the priority for that owner drops to **last place.** This ensures that the last place team does not get to select all the players they want
 - **Example:**
-	- **Fred** is in last in the standings, puts in a claim for Joe Montana, Jerry Rice, and Tom Brady (in that order)
-	- **George** is second-last and puts in a claim for Jerry Rice, Tom Brady, and Brett Favre (in that order)
-	- **John** is in third last and puts in a claim for Brett Favre
-	- Waivers are awarded as follows:
-		- **Fred** - Joe Montana (then Fred drops to the bottom)
-		- **George** - Jerry Rice (then George drops to the bottom)
-		- **John** - Brett Favre (then John drops to the bottom)
-		- **Fred** - Tom Brady
+  - **Fred** is in last in the standings, puts in a claim for Joe Montana, Jerry Rice, and Tom Brady (in that order)
+  - **George** is second-last and puts in a claim for Jerry Rice, Tom Brady, and Brett Favre (in that order)
+  - **John** is in third last and puts in a claim for Brett Favre
+  - Waivers are awarded as follows:
+    - **Fred** - Joe Montana (then Fred drops to the bottom)
+    - **George** - Jerry Rice (then George drops to the bottom)
+    - **John** - Brett Favre (then John drops to the bottom)
+    - **Fred** - Tom Brady
 # Trades
 - Trades are as "wide open" as possible, with very minor balance provisions
 - You can trade draft picks up to 3 years in advance. Your next year's picks will be added automatically in the offseason (between End of League Year and the next Beginning of League Year)
 - All trades are subject to commissioner approval, but commissioner approval will happen by default unless:
-	- A trade is thought to be purposefully unbalanced and a player is thought to be considering leaving the league
+  - A trade is thought to be purposefully unbalanced and a player is thought to be considering leaving the league
 - In such cases, the commissioner will do the following:
-	- DM the parties involved in the trade and ask about it
-	- If the commissioner still feels that this trade is purposefully unbalanced, he can request that the owners pay dues for next year in advance of processing the trade (to discourage someone scrapping their roster and walking away)
+  - DM the parties involved in the trade and ask about it
+  - If the commissioner still feels that this trade is purposefully unbalanced, he can request that the owners pay dues for next year in advance of processing the trade (to discourage someone scrapping their roster and walking away)
 - If any actions are taken by the commissioner that will result in the trade not being processed, the commissioner must abide by the terms set in [[#Commissioner Transparency]].
 # Playoffs
 ## Participants
@@ -166,7 +166,7 @@ sidebar_position: 1
 ## Format
 - Each Toilet Bowl round is a single-elimination head to head matchup with the winner advancing.
 - The winner of the Toilet Bowl wins the highest [[#Order|draft order]], with second, third, and fourth place winning the remaining high draft order positions.
-	- You want to **win** in the Toilet Bowl, not lose. Winning the Toilet Bowl is some level of prestige, losing is the ultimate shame.
+  - You want to **win** in the Toilet Bowl, not lose. Winning the Toilet Bowl is some level of prestige, losing is the ultimate shame.
 ## Waivers
 - Waivers and all roster moves (excluding trades) are allowed during the Toilet Bowl.
 # Rule Changes
@@ -175,9 +175,9 @@ Rule changes occur in one of two ways:
 - A successful [[#In-Season Votes|In-Season Vote]] that has **unanimous** participation, and a minimum of 90% affirmative responses. As such, these are only to be used in emergency cases
 ## Suggesting new rules
 - Right now, rules are suggested by DMs to the commissioner. There will eventually be a way to do this anonymously, but there isn't at this time. 
-	- All rule suggestions will be added to the survey.
+  - All rule suggestions will be added to the survey.
 - If a rule loses in the survey, it cannot be re-proposed right away. If it loses, a 1 year period must pass before it can be re-proposed to reduce the survey being the same rules continuously suggested.
-	- If a rule fails its second attempt, it is permanently removed from consideration. To re-introduce it, it must have a majority of people [[#In-Season Votes|vote]] for it to be re-added to the survey. 
+  - If a rule fails its second attempt, it is permanently removed from consideration. To re-introduce it, it must have a majority of people [[#In-Season Votes|vote]] for it to be re-added to the survey. 
 ## Rule Corrections
 - If something is incorrect in this document, and represents a rule to be added that is not a material change (but either a mistake in writing or a misunderstanding), it can be suggested to be added/changed by anyone and put into the document without following the normal process, as long as [[#Commissioner Transparency]] is upheld.
 # Yearly Survey
