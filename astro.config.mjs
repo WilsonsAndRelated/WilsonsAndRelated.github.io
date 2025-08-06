@@ -7,7 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Wilsons and Related',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/WilsonsAndRelated/WilsonsAndRelated.github.io' }],
 			sidebar: [
 				{
 					label: 'Guides',
