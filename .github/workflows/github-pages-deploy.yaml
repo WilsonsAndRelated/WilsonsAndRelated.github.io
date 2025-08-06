@@ -1,0 +1,50 @@
+name: Update page
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run a one-line script
+        run: |
+          #Assuming GIT main branch is cloned before this script to the PWD
+          DEBIAN_FRONTEND=noninteractive
+          #Answer dumbass questions to prevent non-interactive errors
+          echo 'America/Edmonton' > /etc/timezone 
+          rm -f /etc/localtime
+          echo "tzdata tzdata/Areas select America" | debconf-set-selections
+          echo "tzdata tzdata/Zones/America select Edmonton" | debconf-set-selections
+          echo "keyboard-configuration keyboard-configuration/layout select Engilsh (US)" | debconf-set-selections
+          echo "keyboard-configuration keyboard-configuration/variant select Engilsh (US)" | debconf-set-selections
+          echo "console-setup console-setup/charmap47 select UTF-8" | debconf-set-selections
+          echo "console-setup console-setup/codeset47 select Guess optimal character set" | debconf-set-selections
+
+          #Set up environment
+          apt update && apt install npm rsync git -y
+
+          #Build page
+          npm install create-docusaurus
+          npm update --save
+          npm run build
+      - name: Upload static files as artifact
+        id: deployment
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: build/
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
