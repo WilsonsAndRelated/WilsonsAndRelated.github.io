@@ -9,28 +9,25 @@ hero:
   actions:
     - text: Rulebook
       link: /rulebook/
-      icon: right-arrow
+      icon: open-book
     - text: Take the 2025 Survey
       link: https://docs.google.com/forms/d/e/1FAIpQLScRpD70yXj_v_cyQMNIMlO6Obg9g16MxRIA4GB096aWLWkOGQ/viewform?usp=header
-      icon: external
+      icon: pencil
 
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## Site plans:
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Extra statistics" icon="seti-odata">
+		Will add a statistical overview page with extra fun statistics of how good and bad owners are doing.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="League History" icon="seti-notebook">
+		Want to add a league history page with interesting information from past seasons.
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Pages can be edited" icon="github">
+		For now, if you notice any issues or want to add anything, click the "Edit" button at the bottom of the page to see the GitHub source, and make a pull request.
 	</Card>
 </CardGrid>
