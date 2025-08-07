@@ -112,7 +112,7 @@ title: Fantasy Football Rulebook
 | 4th            | Previous Season's Toilet Bowl 4th Place Finisher                        | Tim (@TimRyland)         |
 | 5th            | Previous Season's Playoffs 6th Place Finisher                           | Darren (@dplett)         |
 | 6th            | Previous Season's Playoffs 5th Place Finisher                           | Greg (@ButttKicker)      |
-| 7th            | Previous Season's Playoffs 4th Place Finisher                           | Elliott (@OrangeCrush)   |
+| 7th            | Previous Season's Playoffs 4th Place Finisher                           | Elliott (@OrangeCrush2012)   |
 | 8th            | Previous Season's Playoffs 3rd Place Finisher                           | Shawn (@PeachPitts)      |
 | 9th            | Previous Season's Playoffs 2nd Place Finisher                           | Andrew (@wmandrewwilson) |
 | 10th           | Previous Season's Champion (1st Place Playoffs Finisher)                | RJ (@CMCtothemoon)       |
