@@ -112,7 +112,7 @@ title: Fantasy Football Rulebook
 | 4th            | Previous Season's Toilet Bowl 4th Place Finisher                        | Tim (@TimRyland)         |
 | 5th            | Previous Season's Playoffs 6th Place Finisher                           | Darren (@dplett)         |
 | 6th            | Previous Season's Playoffs 5th Place Finisher                           | Greg (@ButttKicker)      |
-| 7th            | Previous Season's Playoffs 4th Place Finisher                           | Elliott (@OrangeCrush)   |
+| 7th            | Previous Season's Playoffs 4th Place Finisher                           | Elliott (@OrangeCrush2012)   |
 | 8th            | Previous Season's Playoffs 3rd Place Finisher                           | Shawn (@PeachPitts)      |
 | 9th            | Previous Season's Playoffs 2nd Place Finisher                           | Andrew (@wmandrewwilson) |
 | 10th           | Previous Season's Champion (1st Place Playoffs Finisher)                | RJ (@CMCtothemoon)       |
@@ -143,6 +143,7 @@ title: Fantasy Football Rulebook
 		- **Fred** - Tom Brady
 ## Trades
 - Trades are as "wide open" as possible, with very minor balance provisions
+- Trades can occur at **any time** and are allowed in all offseason periods. Trades are not subject to the offseason restrictions that free agent and waiver moves currently are.
 - You can trade draft picks up to 3 years in advance. Your next year's picks will be added automatically in the offseason (between End of League Year and the next Beginning of League Year)
 - All trades are subject to commissioner approval, but commissioner approval will happen by default unless:
 	- A trade is thought to be purposefully unbalanced and a player is thought to be considering leaving the league
@@ -182,6 +183,17 @@ Rule changes occur in one of two ways:
 	- If a rule fails its second attempt, it is permanently removed from consideration. To re-introduce it, it must have a majority of people [vote](#casual-votes) for it to be re-added to the survey. 
 ### Rule Corrections
 - If something is incorrect in this document, and represents a rule to be added that is not a material change (but either a mistake in writing or a misunderstanding), it can be suggested to be added/changed by anyone and put into the document without following the normal process, as long as [Commissioner Transparency](#cmmissioner-transparency) is upheld.
+## Owner Mistakes and Corrections
+- If an owner makes a mistake that is brought to the attention of the commissioner in any way in a timely manner to the mistake happening, the commissioner will then hold a [Casual Vote](#casual-votes) of some variety to reverse this mistaken action
+- Examples of mistakes include but are not limited to:
+	- Erroneously dropped players
+	- Mistakenly drafted players
+	- Mistakenly accepted trades
+- For a mistake to be eligible for a corrective action, it must meet the following metrics:
+	- It must pass a simple majority [Casual Vote](#casual-votes)
+	- The correction of this move must be done before it affects any teams' score (in the case of in-season moves). There are potentially very limited exceptions to this, but broadly, it should have no impact to score if reversed.
+	- If the error is a draft error, it must be brought up in chat or to the commissioner before the next pick happens so as to not affect strategic balance. At this point, the draft can be paused and a [Casual Vote](#casual-votes) taken.
+- The league's [Casual Vote](#casual-votes) result will serve to litigate if this is a legitimate mistake, did not affect competitive or strategic balance, and can be reversed without a high degree of impact.
 ## Yearly Survey
 - The yearly survey is anonymous, and will be sent out before the Start of League Year.
 - Participation in the survey is optional, but any content contained in the survey will pass with a simple majority, so participation is strongly encouraged.
