@@ -183,6 +183,17 @@ Rule changes occur in one of two ways:
 	- If a rule fails its second attempt, it is permanently removed from consideration. To re-introduce it, it must have a majority of people [vote](#casual-votes) for it to be re-added to the survey. 
 ### Rule Corrections
 - If something is incorrect in this document, and represents a rule to be added that is not a material change (but either a mistake in writing or a misunderstanding), it can be suggested to be added/changed by anyone and put into the document without following the normal process, as long as [Commissioner Transparency](#cmmissioner-transparency) is upheld.
+## Owner Mistakes and Corrections
+- If an owner makes a mistake that is brought to the attention of the commissioner in any way in a timely manner to the mistake happening, the commissioner will then hold a [Casual Vote](#casual-votes) of some variety to reverse this mistaken action
+- Examples of mistakes include but are not limited to:
+	- Erroneously dropped players
+	- Mistakenly drafted players
+	- Mistakenly accepted trades
+- For a mistake to be eligible for a corrective action, it must meet the following metrics:
+	- It must pass a simple majority [Casual Vote](#casual-votes)
+	- The correction of this move must be done before it affects any teams' score (in the case of in-season moves). There are potentially very limited exceptions to this, but broadly, it should have no impact to score if reversed.
+	- If the error is a draft error, it must be brought up in chat or to the commissioner before the next pick happens so as to not affect strategic balance. At this point, the draft can be paused and a [Casual Vote](#casual-votes) taken.
+- The league's [Casual Vote](#casual-votes) result will serve to litigate if this is a legitimate mistake, did not affect competitive or strategic balance, and can be reversed without a high degree of impact.
 ## Yearly Survey
 - The yearly survey is anonymous, and will be sent out before the Start of League Year.
 - Participation in the survey is optional, but any content contained in the survey will pass with a simple majority, so participation is strongly encouraged.
