@@ -143,6 +143,7 @@ title: Fantasy Football Rulebook
 		- **Fred** - Tom Brady
 ## Trades
 - Trades are as "wide open" as possible, with very minor balance provisions
+- Trades can occur at **any time** and are allowed in all offseason periods. Trades are not subject to the offseason restrictions that free agent and waiver moves currently are.
 - You can trade draft picks up to 3 years in advance. Your next year's picks will be added automatically in the offseason (between End of League Year and the next Beginning of League Year)
 - All trades are subject to commissioner approval, but commissioner approval will happen by default unless:
 	- A trade is thought to be purposefully unbalanced and a player is thought to be considering leaving the league
