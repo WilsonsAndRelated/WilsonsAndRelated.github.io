@@ -18,7 +18,7 @@ title: Fantasy Football Rulebook
 
 | Description                     | Date                                                 |
 | ------------------------------- | ---------------------------------------------------- |
-| Start of League Year            | August 10, 2025 at 12:00 PM MDT                      |
+| Start of League Year            | After the last draft pick is completed (due to rule change survey going long)                     |
 | Draft Start                     | August 18, 2025 at 5:00 PM MDT                       |
 | Taxi Squad and Roster Size Lock | September 4, 2025 at 6:00 PM MDT                     |
 | Start of Season                 | September 4, 2025 at 6:20 PM MDT                     |
@@ -175,6 +175,9 @@ title: Fantasy Football Rulebook
 ## Rule Changes
 Rule changes occur in one of two ways:
 - The [Yearly Survey](#yearly-survey), sent to all league members to vote on rule changes
+	- Rule changes must pass with a simple majority (currently 6 votes in favor)
+ 	- All ties go to the existing rules
+  	- In the case of incomplete participation, the results will be collected and applied either at the draft (for draft rule changes) or at the start of the league year (for general rule changes). Ties will still go to existing rules.
 - A successful in-season [Casual Vote](#casual-votes) that has **unanimous** participation, and a minimum of 90% affirmative responses. As such, these are only to be used in emergency cases
 ### Suggesting new rules
 - Right now, rules are suggested by DMs to the commissioner. There will eventually be a way to do this anonymously, but there isn't at this time. 
@@ -183,6 +186,12 @@ Rule changes occur in one of two ways:
 	- If a rule fails its second attempt, it is permanently removed from consideration. To re-introduce it, it must have a majority of people [vote](#casual-votes) for it to be re-added to the survey. 
 ### Rule Corrections
 - If something is incorrect in this document, and represents a rule to be added that is not a material change (but either a mistake in writing or a misunderstanding), it can be suggested to be added/changed by anyone and put into the document without following the normal process, as long as [Commissioner Transparency](#cmmissioner-transparency) is upheld.
+### Rule Change Graveyard
+| Rule Change | When it failed | When it is eligible to be proposed again| 
+| -------------- | ----------------------------------------------------------------------- | ------------------------ |
+| Change waivers to FAAB | 2025-2026 | 2027-2028 |
+| Draft order changes based on second round playoff wins instead of losses | 2025-2026 | 2027-2028 |
+| Defensive plays should yield points | 2025-2026 | 2027-2028 |
 ## Owner Mistakes and Corrections
 - If an owner makes a mistake that is brought to the attention of the commissioner in any way in a timely manner to the mistake happening, the commissioner will then hold a [Casual Vote](#casual-votes) of some variety to reverse this mistaken action
 - Examples of mistakes include but are not limited to:
