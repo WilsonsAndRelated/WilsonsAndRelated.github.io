@@ -28,7 +28,7 @@ title: Fantasy Football Rulebook
 | End of League Year              | February 14, 2027 at 12:00 AM MST                    |
 
 ## Dues and Prizes
-- **Dues:** For the 2025-2026 season, dues are $20 to be sent to the commissioner (eTransfer to his email or handed to him in person)
+- **Dues:** For the 2026-2027 season, dues are $20 to be sent to the commissioner (eTransfer to his email or handed to him in person)
 - **Prize:** The full $200 prize will be awarded to the [Playoffs](#playoffs) champion within 3 days of the championship completion (eTransfer preferred, commissioner will DM champion)
 
 ## Scoring
