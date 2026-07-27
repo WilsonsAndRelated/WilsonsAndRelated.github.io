@@ -14,7 +14,7 @@ title: Fantasy Football Rulebook
 - **Championship Awarded** - The date when we get a new league champion! (see [Playoffs](#playoffs))
 - **End of League Year** - The day that transactions are disabled until the start of the next league year.
 
-### 2025-2026 Season
+### 2026-2027 Season
 
 | Description                     | Date                                                 |
 | ------------------------------- | ---------------------------------------------------- |
