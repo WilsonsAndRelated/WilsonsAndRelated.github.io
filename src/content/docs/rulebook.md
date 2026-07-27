@@ -18,14 +18,14 @@ title: Fantasy Football Rulebook
 
 | Description                     | Date                                                 |
 | ------------------------------- | ---------------------------------------------------- |
-| Start of League Year            | After the last draft pick is completed (due to rule change survey going long)                     |
-| Draft Start                     | August 18, 2025 at 5:00 PM MDT                       |
-| Taxi Squad and Roster Size Lock | September 4, 2025 at 6:00 PM MDT                     |
-| Start of Season                 | September 4, 2025 at 6:20 PM MDT                     |
-| Trade Deadline                  | Start of Week 13 (November 27, 2025 at 11:00 AM MST) |
-| Start of Playoffs               | Start of Week 15 (December 11, 2025 at 6:15 PM MST)  |
-| Championship Awarded            | End of Week 17 (December 29, 2025 at ~10PM MST)      |
-| End of League Year              | February 9, 2026 at 12:00 AM MST                     |
+| Start of League Year            | After the last draft pick is completed               |
+| Draft Start                     | August 10, 2026 at 5:00 PM MDT                       |
+| Taxi Squad and Roster Size Lock | September 9, 2026 at 6:00 PM MDT                     |
+| Start of Season                 | September 9, 2026 at 6:20 PM MDT                     |
+| Trade Deadline                  | Start of Week 13 (December 3, 2025 at 6:15 PM MST)   |
+| Start of Playoffs               | Start of Week 15 (December 17, 2025 at 6:15 PM MST)  |
+| Championship Awarded            | End of Week 17 (January 4, 2027 at ~10PM MST)        |
+| End of League Year              | February 14, 2027 at 12:00 AM MST                    |
 
 ## Dues and Prizes
 - **Dues:** For the 2025-2026 season, dues are $20 to be sent to the commissioner (eTransfer to his email or handed to him in person)
