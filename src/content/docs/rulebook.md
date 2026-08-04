@@ -104,18 +104,18 @@ title: Fantasy Football Rulebook
 ### Order
 - Draft order is determined by the previous season's [Toilet Bowl](#toilet-bowl) results and then season standings.
 
-| Draft Position | Awarded To                                                              | 2025-2026 Owner          |
-| -------------- | ----------------------------------------------------------------------- | ------------------------ |
-| 1st            | Previous Season's Toilet Bowl Champion (1st Place Toilet Bowl Finisher) | Mike (@nuttyskadork)     |
-| 2nd            | Previous Season's Toilet Bowl 2nd Place Finisher                        | Stu (@StuJo7)            |
-| 3rd            | Previous Season's Toilet Bowl 3rd Place Finisher                        | Tyson (@tmccombs)        |
-| 4th            | Previous Season's Toilet Bowl 4th Place Finisher                        | Tim (@TimRyland)         |
-| 5th            | Previous Season's Playoffs 6th Place Finisher                           | Darren (@dplett)         |
-| 6th            | Previous Season's Playoffs 5th Place Finisher                           | Greg (@ButttKicker)      |
-| 7th            | Previous Season's Playoffs 4th Place Finisher                           | Elliott (@OrangeCrush2012)   |
-| 8th            | Previous Season's Playoffs 3rd Place Finisher                           | Shawn (@PeachPitts)      |
-| 9th            | Previous Season's Playoffs 2nd Place Finisher                           | Andrew (@wmandrewwilson) |
-| 10th           | Previous Season's Champion (1st Place Playoffs Finisher)                | RJ (@CMCtothemoon)       |
+| Draft Position | Awarded To                                                              | 2026-2027 Owner           |
+| -------------- | ----------------------------------------------------------------------- | --------------------------|
+| 1st            | Previous Season's Toilet Bowl Champion (1st Place Toilet Bowl Finisher) | Tim (@TimRyland)          |
+| 2nd            | Previous Season's Toilet Bowl 2nd Place Finisher                        | Darren (@dplett)          |
+| 3rd            | Previous Season's Toilet Bowl 3rd Place Finisher                        | Greg (@ButtKicker)        |
+| 4th            | Previous Season's Toilet Bowl 4th Place Finisher                        | Mike (@nuttyskadork)      |
+| 5th            | Previous Season's Playoffs 6th Place Finisher                           | Stu (@stujo7)             |
+| 6th            | Previous Season's Playoffs 5th Place Finisher                           | Shawn (@PeachPitts)       |
+| 7th            | Previous Season's Playoffs 4th Place Finisher                           | Elliott (@OrangeCrush2012)|
+| 8th            | Previous Season's Playoffs 3rd Place Finisher                           | Tyson (@tmccombs)         |
+| 9th            | Previous Season's Playoffs 2nd Place Finisher                           | Andrew (@wmandrewwilson)  |
+| 10th           | Previous Season's Champion (1st Place Playoffs Finisher)                | RJ (@CMCtothemoon)        |
 - Draft order remains static between rounds and does not snake. 
 ### Pick Timing
 - Each pick is to be selected in an 8 hour time period beginning upon the completion of the pick previous to yours
