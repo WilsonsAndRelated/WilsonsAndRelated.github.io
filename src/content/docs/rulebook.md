@@ -19,7 +19,7 @@ title: Fantasy Football Rulebook
 | Description                     | Date                                                 |
 | ------------------------------- | ---------------------------------------------------- |
 | Start of League Year            | After the last draft pick is completed               |
-| Draft Start                     | August 10, 2026 at 5:00 PM MDT                       |
+| Draft Start                     | August 17, 2026 at 5:00 PM MDT                       |
 | Taxi Squad and Roster Size Lock | September 9, 2026 at 6:00 PM MDT                     |
 | Start of Season                 | September 9, 2026 at 6:20 PM MDT                     |
 | Trade Deadline                  | Start of Week 13 (December 3, 2025 at 6:15 PM MST)   |
